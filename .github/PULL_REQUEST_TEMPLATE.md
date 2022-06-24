@@ -8,3 +8,10 @@
 
 -
 -
+
+## Checks:
+- [ ] Have you linted your code locally prior to submission?
+- [ ] Have you added an explanation of what your changes do?
+- [ ] Have you added an explanation on how you've tested the changes?
+<!--- Put an `x` if the documentation needs to change: -->
+- [ ] Do your changes require a change to the documentation?
