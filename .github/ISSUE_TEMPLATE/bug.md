@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Observed bug
+title: '[Topic] Short description'
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Bug description**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -23,9 +23,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Platform (please complete the following information):**
- - OS: [e.g. iOS8.1]
- - Version [e.g. 22]
+**Platform**
+ - OS: [e.g. iOS 8.1]
+ - Affected versions: [e.g. 1.2.1]
+ - Device: [e.g. Android Tablet]
 
 **Additional context**
 Add any other context about the problem here.
